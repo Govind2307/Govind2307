@@ -40,7 +40,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/govindpurohit2307/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/govind230702/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/GovindP230702/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/govind_2307/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
