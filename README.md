@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Govind Purohit</h1>
 <h3 align="center">An Aspiring Android Developer</h3>
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/OC_3jYWo7N4Vax_ChTiZvZg9fSZnZpaPaXPKqf2qD80/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzkyNjUz/Ny9zY3JlZW5zaG90/cy80NTAyOTI0L3B5/dGhvbi0yLmdpZg.gif>"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind2307&label=Profile%20views&color=0e75b6&style=flat" alt="govind2307" /> </p>
 
