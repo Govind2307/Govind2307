@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ Mechanical Engineering student in 3rd year<br>📊 Proficient in data visualization with Power BI<br>🐍 Skilled in Python<br>🧠 Currently diving into Machine Learning and Data Analysis<br>💡 Knowledgeable in Multi-criteria Decision Making
+🛠️ Mechanical Engineering student in 4th year<br>📊 Proficient in data visualization with Power BI<br>🐍 Skilled in Python<br>🧠 Currently diving into Business Analytics and Operations<br>💡 Knowledgeable in Multi-criteria Decision Making
 
 
 ## 🌐 Socials:
