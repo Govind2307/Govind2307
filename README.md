@@ -1,7 +1,7 @@
 # 💫 About Me:
 🛠️ Mechanical Engineering student in 4th year with a Data analysis Torch🔥<br>
 📊 Proficient in data visualization with Power BI<br>
-🐍 Skilled in SQl and Python<br>
+🐍 Skilled in SQL and Python<br>
 🧠 Currently diving into Business Analytics  Operations problems solving
 
 
